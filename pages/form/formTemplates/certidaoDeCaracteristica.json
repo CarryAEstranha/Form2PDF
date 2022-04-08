@@ -1,0 +1,12 @@
+{
+    "<>": "form", "action": "../PDF/index.html", "id": "page-form", "html": [
+        {
+            "<>": "h2", "text": "Nome do Formulário"
+        },
+        {
+            "<>": "button",
+            "text": "Enviar",
+            "type": "submit"
+        }
+    ]
+}

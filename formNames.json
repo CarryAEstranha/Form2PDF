@@ -1,0 +1,12 @@
+{
+    "forms": [
+        {
+            "name": "Certidão de Característica",
+            "nameJSON": "certidaoDeCaracteristica"
+        },
+        {
+            "name": "Alvará de Construção",
+            "nameJSON": "alvaraDeConstrucao"
+        }
+    ]
+}
